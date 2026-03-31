@@ -180,22 +180,6 @@ Deploy (Vercel / Cloud)
 
 ---
 
-# 🖥️ Demo Proyectos
-
-<p align="center">
-  <img src="https://via.placeholder.com/700x350/0d1117/00FFB2?text=Landing+Page+Demo"/>
-</p>
-
-<p align="center">
-  <img src="https://via.placeholder.com/700x350/0d1117/00FFB2?text=Admin+Panel+Demo"/>
-</p>
-
-<p align="center">
-  <img src="https://via.placeholder.com/700x350/0d1117/00FFB2?text=Ecommerce+Demo"/>
-</p>
-
----
-
 # 📊 Métricas
 
 | Métrica | Cantidad |
@@ -210,19 +194,6 @@ Deploy (Vercel / Cloud)
 | Intranets empresariales |  |
 | Integraciones API |  |
 | Landing pages |  |
-
----
-# 📂 Repositorios principales
-gsweb-landing
-gsweb-ecommerce
-gsweb-admin
-gsweb-api
-gsweb-dashboard
-gsweb-auth
-gsweb-intranet
-gsweb-cms
-gsweb-template
-gsweb-components
 
 ---
 
