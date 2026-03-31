@@ -1,54 +1,41 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/87387001?v=4" alt="GS WEB Logo"/>
+  <img src="https://via.placeholder.com/800x200/0d1117/ffffff?text=GS+WEB+SOLUCIONES" />
 </p>
 
-<h1 align="center">GS WEB</h1>
+<h1 align="center">GS WEB SOLUCIONES</h1>
 
 <p align="center">
-Desarrollo Web • Sistemas • Automatización • E-commerce • SEO
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Web-Development-black">
-  <img src="https://img.shields.io/badge/Systems-Development-black">
-  <img src="https://img.shields.io/badge/Ecommerce-Solutions-black">
-  <img src="https://img.shields.io/badge/SEO-Optimization-black">
-  <img src="https://img.shields.io/badge/Automation-Processes-black">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollo+Web+Profesional;Sistemas+Web+a+Medida;Tiendas+Online+E-commerce;Automatizacion+de+Procesos;SEO+y+Optimización+Web&font=Fira%20Code&center=true&width=600&height=50&color=00FFB2&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
 
-# 🌐 Sobre GS WEB
+## 🌐 Sobre GS Web
 
-**GS WEB** es una empresa de desarrollo web y software enfocada en crear soluciones digitales modernas para empresas, negocios y emprendedores.
+GS Web Soluciones es una empresa dedicada al desarrollo de páginas web, sistemas web, e-commerce, automatización de procesos e intranets empresariales.
 
-Desarrollamos páginas web profesionales, sistemas web a medida, tiendas online, intranets empresariales y automatización de procesos.
-
-Nuestro objetivo es ayudar a las empresas a digitalizarse, mejorar su presencia online y optimizar sus procesos mediante tecnología.
+Creamos soluciones digitales modernas, rápidas, optimizadas para SEO y pensadas para empresas y negocios.
 
 ---
 
-# 🚀 Servicios
+## 🚀 Servicios
 
-- Desarrollo de páginas web profesionales
-- Landing pages empresariales
-- Tiendas online (E-commerce)
+- Desarrollo de páginas web
+- Tiendas online
 - Sistemas web a medida
-- Paneles de administración
+- Paneles administrativos
 - Intranets empresariales
 - Automatización de procesos
 - Integraciones API
 - SEO técnico
 - Hosting y dominios
-- Mantenimiento web
-- Sistemas de gestión
 - Dashboards
 - CRM internos
 - Sistemas de reservas
 
 ---
 
-# 🛠️ Tecnologías
+## 🛠️ Tecnologías
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-black?logo=next.js"/>
@@ -58,76 +45,43 @@ Nuestro objetivo es ayudar a las empresas a digitalizarse, mejorar su presencia 
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase"/>
   <img src="https://img.shields.io/badge/Vercel-black?logo=vercel"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js"/>
-  <img src="https://img.shields.io/badge/API-Development-black"/>
 </p>
 
 ---
 
-# 💼 Proyectos que desarrollamos
-
-- Landing pages
-- Sitios web empresariales
-- Tiendas online
-- Sistemas administrativos
-- Intranets
-- Dashboards
-- APIs
-- Sistemas de usuarios
-- Sistemas de presupuestos
-- Catálogos online
-- Automatización de procesos
-- Integraciones con WhatsApp / Meta / APIs
-- Sistemas de reservas
-- CRM internos
-
----
-
-# 📊 GitHub Stats
+## 📘 Proyectos principales
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gswebsoluciones&repo=gsweb-landing&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gswebsoluciones&repo=gsweb-ecommerce&theme=dark"/>
 </p>
 
 ---
 
-# 📂 Repositorios principales
+## 📊 Estadísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=gsweb-landing"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=gsweb-ecommerce"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=gsweb-admin"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=gsweb-api"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=gswebsoluciones&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gswebsoluciones&layout=compact&theme=dark"/>
 </p>
 
 ---
 
-# 🏢 Qué hacemos en GS WEB
+## 📈 Actividad
 
-En GS WEB desarrollamos soluciones digitales completas para empresas:
-
-- Diseñamos páginas web profesionales
-- Creamos tiendas online
-- Desarrollamos sistemas web a medida
-- Creamos paneles administrativos
-- Automatizamos procesos empresariales
-- Integramos APIs y servicios externos
-- Optimizamos sitios para SEO
-- Implementamos hosting y dominios
-- Desarrollamos intranets empresariales
-- Creamos dashboards y sistemas internos
-
-Trabajamos con tecnologías modernas y enfocadas en rendimiento, SEO y escalabilidad.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gswebsoluciones&theme=github-dark"/>
+</p>
 
 ---
 
-# 📫 Contacto
+## 📫 Contacto
 
 - Web: https://gsweb.com.uy
 - Email: contacto@gsweb.com.uy
-- GitHub: https://github.com/TU_USUARIO
+- GitHub: https://github.com/gswebsoluciones
 
 ---
 
-# GS WEB
+# GS Web Soluciones
 ### Desarrollo web profesional y sistemas a medida
