@@ -144,26 +144,6 @@ Deploy (Vercel / Cloud)
 
 ---
 
-# 📘 Proyectos principales
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gswebsoluciones&repo=gsweb-landing&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gswebsoluciones&repo=gsweb-ecommerce&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gswebsoluciones&repo=gsweb-admin&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gswebsoluciones&repo=gsweb-api&theme=dark"/>
-</p>
-
----
-
-# 📊 Estadísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=gswebsoluciones&show_icons=true&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gswebsoluciones&layout=compact&theme=dark"/>
-</p>
-
----
-
 # 📈 Actividad
 
 <p align="center">
