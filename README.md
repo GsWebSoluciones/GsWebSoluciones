@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/200x200.png?text=GS+WEB" alt="GS WEB Logo"/>
+  <img src="[https://via.placeholder.com/200x200.png?text=GS+WEB](https://avatars.githubusercontent.com/u/87387001?v=4)" alt="GS WEB Logo"/>
 </p>
 
 <h1 align="center">GS WEB</h1>
