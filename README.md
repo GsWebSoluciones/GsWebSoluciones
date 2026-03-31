@@ -196,18 +196,6 @@ Deploy (Vercel / Cloud)
 
 ---
 
-# 🏢 Clientes
-
-<p align="center">
-  <img src="https://via.placeholder.com/150x80?text=Empresa+1"/>
-  <img src="https://via.placeholder.com/150x80?text=Empresa+2"/>
-  <img src="https://via.placeholder.com/150x80?text=Empresa+3"/>
-  <img src="https://via.placeholder.com/150x80?text=Empresa+4"/>
-  <img src="https://via.placeholder.com/150x80?text=Empresa+5"/>
-</p>
-
----
-
 # 📊 Métricas
 
 | Métrica | Cantidad |
