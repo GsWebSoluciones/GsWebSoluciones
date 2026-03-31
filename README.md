@@ -3,7 +3,7 @@
 <!-- ======================= -->
 
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300/0d1117/00FFB2?text=GS+WEB+SOLUCIONES" />
+  <img src="https://raw.githubusercontent.com/GsWebSoluciones/GsWebSoluciones/main/logo.png" />
 </p>
 
 <h1 align="center">GS WEB SOLUCIONES</h1>
